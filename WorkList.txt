@@ -1,0 +1,15 @@
+Todo list
+계산기
+블로그
+테트리스
+
+자동매매프로그램
+exe 파일만들기
+
+레노버: 115.139.170.76
+데스크탑: 115.139.170.76
+
+Access key : WzRx0D9JL2t1IaS9yvQ6QP6qOIbqqngxXkeUGKDB
+Secret 키 :C9uXgVCAEGc9ONTGHq1nqlnORfN9znxzm5VbozOh
+
+aws 프리 티어 - 서버12개월꽁짜
